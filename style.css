@@ -1,0 +1,26 @@
+h1 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-weight: bold;
+}
+span {
+    color: skyblue;
+}
+
+.middle {
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    padding: 15px;
+}
+
+.right {
+    background-color: lightskyblue;
+    color: black;
+    text-align: right;
+    text-decoration: underline;
+    padding: 10px;
+}
+
